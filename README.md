@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Hello World
+Hello Humans!
+
+Sander here, I am having fun with Git and Hub.
